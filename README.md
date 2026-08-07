@@ -9,3 +9,8 @@ Project List :-
 1) Simple Calculator
 2) OTP Generator
 3) Email Sender
+4) Number Guessing Game
+5) Password Generator
+6) To-Do list app
+7) Weather Checker
+   
